@@ -31,6 +31,10 @@ I produce free videos and blog posts, as well as premium videos and courses. I a
 - [Dev Snack: Testing Firebase Cloud Functions with user ID tokens](https://medium.com/super-declarative/dev-snack-testing-firebase-cloud-functions-with-user-id-tokens-83841d3f06c?source=rss----87da985e7675---4)
 <!-- BLOG-POST-LIST:END -->
 
+---
+
+<img align="left" alt="Matt's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=matthew-carroll&show_icons=true&hide_border=true">
+
 [website]: https://superdeclarative.com
 [youtube]: https://youtube.com/superdeclarative
 [twitter]: https://twitter.com/suprdeclarative
