@@ -4,6 +4,8 @@ I used to be a developer on the Flutter team at Google. These days I'm focused o
 
 I produce free videos and blog posts, as well as premium videos and courses. I also build open source software with Dart and Flutter. Check it out for yourself!
 
+---
+
 **Watch, Like, Share, Subscribe, Follow**
 
 [<img align="left" alt="Super Declarative! | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -13,6 +15,8 @@ I produce free videos and blog posts, as well as premium videos and courses. I a
 [<img align="left" alt="Super Declarative! | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br>
 
+---
+
 ### Recent YouTube Videos
 <!-- YOUTUBE:START -->
 - [Flutter Circle Reveal Onboarding | Widget Workshop](https://www.youtube.com/watch?v=QMqKAEjwEJc)
@@ -21,6 +25,8 @@ I produce free videos and blog posts, as well as premium videos and courses. I a
 - [Flutter Text Scroller | Widget Workshop](https://www.youtube.com/watch?v=HjJHO0NXI10)
 - [I'm Back!!](https://www.youtube.com/watch?v=ELooA2lz8L8)
 <!-- YOUTUBE:END -->
+
+---
 
 ### Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
