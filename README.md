@@ -1,4 +1,4 @@
-Hi, I'm Matt. I'm a Flutter educator, corporate trainer, and independent app developer.
+### Hi, I'm Matt. I'm a Flutter educator, corporate trainer, and independent app developer.
 
 I used to be a developer on the Flutter team at Google. These days I'm focused on helping the world adopt Flutter.
 
@@ -17,3 +17,9 @@ I produce free videos and blog posts, as well as premium videos and courses. I a
 [twitter]: https://twitter.com/suprdeclarative
 [blog]: http://blog.superdeclarative.com
 [linkedin]: https://www.linkedin.com/company/37550132
+
+### Recent YouTube Videos
+
+### Recent Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
