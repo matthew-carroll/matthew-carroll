@@ -19,6 +19,8 @@ I produce free videos and blog posts, as well as premium videos and courses. I a
 [linkedin]: https://www.linkedin.com/company/37550132
 
 ### Recent YouTube Videos
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
 
 ### Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
