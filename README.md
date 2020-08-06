@@ -20,6 +20,11 @@ I produce free videos and blog posts, as well as premium videos and courses. I a
 
 ### Recent YouTube Videos
 <!-- YOUTUBE:START -->
+- [Flutter Circle Reveal Onboarding | Widget Workshop](https://www.youtube.com/watch?v=QMqKAEjwEJc)
+- [Flutter Page Indicator | Widget Workshop](https://www.youtube.com/watch?v=gYekEaDo91s)
+- [Simon says: use a ShaderMask!](https://www.youtube.com/watch?v=RRC4FQ8ORDw)
+- [Flutter Text Scroller | Widget Workshop](https://www.youtube.com/watch?v=HjJHO0NXI10)
+- [I'm Back!!](https://www.youtube.com/watch?v=ELooA2lz8L8)
 <!-- YOUTUBE:END -->
 
 ### Recent Blog Posts
