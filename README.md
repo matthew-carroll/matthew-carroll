@@ -12,12 +12,6 @@ I produce free videos and blog posts, as well as premium videos and courses. I a
 [<img align="left" alt="Super Declarative! | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Super Declarative! | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[website]: https://superdeclarative.com
-[youtube]: https://youtube.com/superdeclarative
-[twitter]: https://twitter.com/suprdeclarative
-[blog]: http://blog.superdeclarative.com
-[linkedin]: https://www.linkedin.com/company/37550132
-
 ### Recent YouTube Videos
 <!-- YOUTUBE:START -->
 - [Flutter Circle Reveal Onboarding | Widget Workshop](https://www.youtube.com/watch?v=QMqKAEjwEJc)
@@ -35,3 +29,9 @@ I produce free videos and blog posts, as well as premium videos and courses. I a
 - [Page Indicator | Widget Workshop](https://medium.com/super-declarative/page-indicator-widget-workshop-ad8c6e882779?source=rss----87da985e7675---4)
 - [Dev Snack: Testing Firebase Cloud Functions with user ID tokens](https://medium.com/super-declarative/dev-snack-testing-firebase-cloud-functions-with-user-id-tokens-83841d3f06c?source=rss----87da985e7675---4)
 <!-- BLOG-POST-LIST:END -->
+
+[website]: https://superdeclarative.com
+[youtube]: https://youtube.com/superdeclarative
+[twitter]: https://twitter.com/suprdeclarative
+[blog]: http://blog.superdeclarative.com
+[linkedin]: https://www.linkedin.com/company/37550132
