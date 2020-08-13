@@ -30,11 +30,11 @@ I produce free videos and blog posts, as well as premium videos and courses. I a
 
 ### Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Academy is open!](https://medium.com/super-declarative/the-academy-is-open-1c4881680001?source=rss----87da985e7675---4)
 - [Color Picker| Widget Workshop](https://medium.com/super-declarative/color-picker-widget-workshop-6a4dd955c865?source=rss----87da985e7675---4)
 - [Flutter Color Picker | Widget Workshop](https://medium.com/super-declarative/flutter-color-picker-widget-workshop-a6de6f9cb477?source=rss----87da985e7675---4)
 - [Circle Reveal Onboarding | Widget Workshop](https://medium.com/super-declarative/circle-reveal-onboarding-widget-workshop-db5675b8f48a?source=rss----87da985e7675---4)
 - [Circle Reveal Onboarding | Widget Workshop](https://medium.com/super-declarative/circle-reveal-onboarding-widget-workshop-11ef6cfb260e?source=rss----87da985e7675---4)
-- [Dev Snack: Hand cursor with Flutter for web](https://medium.com/super-declarative/dev-snack-hand-cursor-with-flutter-for-web-a26b898fdf87?source=rss----87da985e7675---4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
