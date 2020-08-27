@@ -19,11 +19,11 @@ I produce free videos and blog posts, as well as premium videos and courses. I a
 
 ### Recent YouTube Videos
 <!-- YOUTUBE:START -->
+- [Nest Protect Hero in Flutter | Widget Workshop](https://www.youtube.com/watch?v=X8Zx9E3IR8A)
 - [Flutter Color Picker | Widget Workshop](https://www.youtube.com/watch?v=FCoZrH70nwE)
 - [Flutter Circle Reveal Onboarding | Widget Workshop](https://www.youtube.com/watch?v=QMqKAEjwEJc)
 - [Flutter Page Indicator | Widget Workshop](https://www.youtube.com/watch?v=gYekEaDo91s)
 - [Simon says: use a ShaderMask!](https://www.youtube.com/watch?v=RRC4FQ8ORDw)
-- [Flutter Text Scroller | Widget Workshop](https://www.youtube.com/watch?v=HjJHO0NXI10)
 <!-- YOUTUBE:END -->
 
 ---
