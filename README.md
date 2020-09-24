@@ -30,11 +30,11 @@ I produce free videos and blog posts, as well as premium videos and courses. I a
 
 ### Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Message Flash | Widget Workshop](https://medium.com/super-declarative/message-flash-widget-workshop-8d5b222964fd?source=rss----87da985e7675---4)
 - [Candlestick Stock Chart in Flutter | Widget Workshop](https://medium.com/super-declarative/candlestick-stock-chart-in-flutter-widget-workshop-268863ee3797?source=rss----87da985e7675---4)
 - [Nest Protect Hero| Widget Workshop](https://medium.com/super-declarative/nest-protect-hero-widget-workshop-2d85cfe17716?source=rss----87da985e7675---4)
 - [The Academy is open!](https://medium.com/super-declarative/the-academy-is-open-1c4881680001?source=rss----87da985e7675---4)
 - [Flutter Color Picker | Widget Workshop](https://medium.com/super-declarative/flutter-color-picker-widget-workshop-a6de6f9cb477?source=rss----87da985e7675---4)
-- [Circle Reveal Onboarding | Widget Workshop](https://medium.com/super-declarative/circle-reveal-onboarding-widget-workshop-db5675b8f48a?source=rss----87da985e7675---4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
