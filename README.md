@@ -19,11 +19,11 @@ I produce free videos and blog posts, as well as premium videos and courses. I a
 
 ### Recent YouTube Videos
 <!-- YOUTUBE:START -->
+- [Flutter Image Flip | Widget Workshop](https://www.youtube.com/watch?v=GWy1SFtowic)
 - [Flutter Typewriter | Widget Workshop](https://www.youtube.com/watch?v=i30b-RhRXcY)
 - [Flutter Message Flash | Widget Workshop](https://www.youtube.com/watch?v=YbXgukQOJeo)
 - [Flutter Candlestick Stock Chart | Widget Workshop](https://www.youtube.com/watch?v=dOwVPZSJQuo)
 - [Nest Protect Hero in Flutter | Widget Workshop](https://www.youtube.com/watch?v=X8Zx9E3IR8A)
-- [Flutter Color Picker | Widget Workshop](https://www.youtube.com/watch?v=FCoZrH70nwE)
 <!-- YOUTUBE:END -->
 
 ---
