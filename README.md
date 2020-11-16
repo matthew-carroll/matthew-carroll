@@ -19,11 +19,11 @@ I produce free videos and blog posts, as well as premium videos and courses. I a
 
 ### Recent YouTube Videos
 <!-- YOUTUBE:START -->
+- [Join me for a Flutter panel on Dec 3, 2020!](https://www.youtube.com/watch?v=0jqOF1d4H2Y)
 - [Flutter Flipping Switch | Widget Workshop](https://www.youtube.com/watch?v=aYVVn8iFCdo)
 - [Flutter Image Flip | Widget Workshop](https://www.youtube.com/watch?v=GWy1SFtowic)
 - [Flutter Typewriter | Widget Workshop](https://www.youtube.com/watch?v=i30b-RhRXcY)
 - [Flutter Message Flash | Widget Workshop](https://www.youtube.com/watch?v=YbXgukQOJeo)
-- [Flutter Candlestick Stock Chart | Widget Workshop](https://www.youtube.com/watch?v=dOwVPZSJQuo)
 <!-- YOUTUBE:END -->
 
 ---
