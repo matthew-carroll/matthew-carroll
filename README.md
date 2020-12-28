@@ -19,11 +19,11 @@ I produce free videos and blog posts, as well as premium videos and courses. I a
 
 ### Recent YouTube Videos
 <!-- YOUTUBE:START -->
+- [Flutter New Years App - Part 1](https://www.youtube.com/watch?v=WKdAQu0weQI)
 - [Intro to Geometry package for Dart and Flutter](https://www.youtube.com/watch?v=tyW0wYmPt9c)
 - [Photoshop Color Picker in Flutter | Widget Workshop](https://www.youtube.com/watch?v=HURA4DKjA1c)
 - [Join me for a Flutter panel on Dec 3, 2020!](https://www.youtube.com/watch?v=0jqOF1d4H2Y)
 - [Flutter Flipping Switch | Widget Workshop](https://www.youtube.com/watch?v=aYVVn8iFCdo)
-- [Flutter Image Flip | Widget Workshop](https://www.youtube.com/watch?v=GWy1SFtowic)
 <!-- YOUTUBE:END -->
 
 ---
