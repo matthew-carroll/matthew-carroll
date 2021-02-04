@@ -19,11 +19,11 @@ I produce free videos and blog posts, as well as premium videos and courses. I a
 
 ### Recent YouTube Videos
 <!-- YOUTUBE:START -->
+- [Ep. 004 - The Core APIs | Flutter Processing](https://www.youtube.com/watch?v=sGyEcaD4wVE)
 - [Ep. 003 - A new project | Flutter Processing](https://www.youtube.com/watch?v=cUpnHubFC7Y)
 - [Ep. 002 - What is Processing? | Flutter Processing](https://www.youtube.com/watch?v=S04DAiYTARg)
 - [Ep. 001 - I'm going to port processing to Flutter | Flutter Processing](https://www.youtube.com/watch?v=NsWwYh5T6qs)
 - [SuperDeclarative! Channel Update: 2021 - Q1](https://www.youtube.com/watch?v=BvIFAQcdCl8)
-- [Flutter New Years App - Part 3](https://www.youtube.com/watch?v=W9oPxvSA6AY)
 <!-- YOUTUBE:END -->
 
 ---
