@@ -19,11 +19,11 @@ I produce free videos and blog posts, as well as premium videos and courses. I a
 
 ### Recent YouTube Videos
 <!-- YOUTUBE:START -->
+- [Custom selectable text in Flutter](https://www.youtube.com/watch?v=77GyeN5lbR0)
 - [Ep. 010 - Draw a triangle | Flutter Processing](https://www.youtube.com/watch?v=V-BzB7a1T9A)
 - [Ep. 009 - Squares and rectangles | Flutter Processing](https://www.youtube.com/watch?v=3I10CczkYvc)
 - [Ep. 008 - Fills and strokes | Flutter Processing](https://www.youtube.com/watch?v=tLktTENqVXo)
 - [Ep. 007 - Draw a circle | Flutter Processing](https://www.youtube.com/watch?v=r8mZ2wqABz0)
-- [Ep. 006 - Default background color | Flutter Processing](https://www.youtube.com/watch?v=EZJ8d_Ws3ls)
 <!-- YOUTUBE:END -->
 
 ---
