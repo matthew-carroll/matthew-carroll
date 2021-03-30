@@ -19,11 +19,11 @@ I produce free videos and blog posts, as well as premium videos and courses. I a
 
 ### Recent YouTube Videos
 <!-- YOUTUBE:START -->
+- [Ep. 017 - random() | Flutter Processing](https://www.youtube.com/watch?v=tC35HOhJbzk)
 - [Dynamic Springs | Flutter Challenge](https://www.youtube.com/watch?v=_4qyESnzRq8)
 - [Ep. 016 - Publishing v0.1.1 | Flutter Processing](https://www.youtube.com/watch?v=eqAjPmVqyu0)
 - [Ep. 015 - Draw an arc | Flutter Processing](https://www.youtube.com/watch?v=ZgzBHdUp3yI)
 - [Ep. 014 - Draw an ellipse | Flutter Processing](https://www.youtube.com/watch?v=runJd6BTxvk)
-- [Ep. 013 - Draw a point | Flutter Processing](https://www.youtube.com/watch?v=yXi0PyuUcM0)
 <!-- YOUTUBE:END -->
 
 ---
