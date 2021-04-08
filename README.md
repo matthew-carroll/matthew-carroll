@@ -19,11 +19,11 @@ I produce free videos and blog posts, as well as premium videos and courses. I a
 
 ### Recent YouTube Videos
 <!-- YOUTUBE:START -->
+- [Ep. 019 - Animation | Flutter Processing](https://www.youtube.com/watch?v=oNSDMpkLBd0)
 - [Ep. 018 - Null Safety | Flutter Processing](https://www.youtube.com/watch?v=ucAT573eWiQ)
 - [SuperDeclarative! Update: 2021 - Q2](https://www.youtube.com/watch?v=A3dHFpp24lQ)
 - [Ep. 017 - random() | Flutter Processing](https://www.youtube.com/watch?v=tC35HOhJbzk)
 - [Dynamic Springs | Flutter Challenge](https://www.youtube.com/watch?v=_4qyESnzRq8)
-- [Ep. 016 - Publishing v0.1.1 | Flutter Processing](https://www.youtube.com/watch?v=eqAjPmVqyu0)
 <!-- YOUTUBE:END -->
 
 ---
