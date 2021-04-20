@@ -19,11 +19,11 @@ I produce free videos and blog posts, as well as premium videos and courses. I a
 
 ### Recent YouTube Videos
 <!-- YOUTUBE:START -->
+- [Ep. 022 - Coding challenge: Purple rain | Flutter Processing](https://www.youtube.com/watch?v=-aRNkSGx1es)
 - [Ep. 021 - Coding challenge: Starfield | Flutter Processing](https://www.youtube.com/watch?v=BERTs7IwWvk)
 - [Ep. 020 - size() | Flutter Processing](https://www.youtube.com/watch?v=2c_yAgyiReU)
 - [Ep. 019 - Animation | Flutter Processing](https://www.youtube.com/watch?v=oNSDMpkLBd0)
 - [Ep. 018 - Null Safety | Flutter Processing](https://www.youtube.com/watch?v=ucAT573eWiQ)
-- [SuperDeclarative! Update: 2021 - Q2](https://www.youtube.com/watch?v=A3dHFpp24lQ)
 <!-- YOUTUBE:END -->
 
 ---
