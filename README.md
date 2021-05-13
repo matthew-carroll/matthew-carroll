@@ -19,11 +19,11 @@ I produce free videos and blog posts, as well as premium videos and courses. I a
 
 ### Recent YouTube Videos
 <!-- YOUTUBE:START -->
+- [Ep. 029 - mouse input | Flutter Processing](https://www.youtube.com/watch?v=eztR1O9f7ts)
 - [Ep. 028 - keyboard input | Flutter Processing](https://www.youtube.com/watch?v=vH2cSygKM-E)
 - [Ep. 027 - size() revisited | Flutter Processing](https://www.youtube.com/watch?v=XNXWcS80TsI)
 - [Ep. 026 - strokeWeight() | Flutter Processing](https://www.youtube.com/watch?v=Aig6oLqVdcQ)
 - [Ep. 025 - Clipping | Flutter Processing](https://www.youtube.com/watch?v=o6pf7s-6FNc)
-- [Ep. 024 - noLoop() | Flutter Processing](https://www.youtube.com/watch?v=nMtAEIofx6E)
 <!-- YOUTUBE:END -->
 
 ---
