@@ -19,11 +19,11 @@ I produce free videos and blog posts, as well as premium videos and courses. I a
 
 ### Recent YouTube Videos
 <!-- YOUTUBE:START -->
+- [Ep. 033 - loadPixels(), set(), and updatePixels() | Flutter Processing](https://www.youtube.com/watch?v=V2-qe1V-byg)
 - [Ep. 032 - get() pixel colors and regions | Flutter Processing](https://www.youtube.com/watch?v=D5I3p2jj9l0)
 - [Ep. 031 - loadImage() and image() | Flutter Processing](https://www.youtube.com/watch?v=eTDQi6pUl_E)
 - [Ep. 030 - Bitmap drawing | Flutter Processing](https://www.youtube.com/watch?v=TDLC4gxgdvk)
 - [Ep. 029 - mouse input | Flutter Processing](https://www.youtube.com/watch?v=eztR1O9f7ts)
-- [Ep. 028 - keyboard input | Flutter Processing](https://www.youtube.com/watch?v=vH2cSygKM-E)
 <!-- YOUTUBE:END -->
 
 ---
