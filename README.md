@@ -19,11 +19,11 @@ I produce free videos and blog posts, as well as premium videos and courses. I a
 
 ### Recent YouTube Videos
 <!-- YOUTUBE:START -->
+- [Ep. 034 - Coding Challenge: Random Walker | Flutter Processing](https://www.youtube.com/watch?v=qlVNSMVv7Qk)
 - [Announcing Super Editor v0.1.0!](https://www.youtube.com/watch?v=RrnvWT9C1D0)
 - [A Flutter document announcement!](https://www.youtube.com/watch?v=nZ9pWg_QOwM)
 - [Why Flutter doesn't support documents](https://www.youtube.com/watch?v=RfRqqX3aZlU)
 - [Flutter vs The Web](https://www.youtube.com/watch?v=iRcBy8UGB0g)
-- [Ep. 033 - loadPixels(), set(), and updatePixels() | Flutter Processing](https://www.youtube.com/watch?v=V2-qe1V-byg)
 <!-- YOUTUBE:END -->
 
 ---
