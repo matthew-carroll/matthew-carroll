@@ -19,11 +19,11 @@ I produce free videos and blog posts, as well as premium videos and courses. I a
 
 ### Recent YouTube Videos
 <!-- YOUTUBE:START -->
+- [Ep. 038 - Metaballs | Flutter Processing](https://www.youtube.com/watch?v=Iyh81vS3lFM)
 - [Ep. 037: Animated Circle Packing WITH TEXT | Flutter Processing](https://www.youtube.com/watch?v=uqKllxG5kbs)
 - [Ep. 036: Animated Circle Packing | Flutter Processing](https://www.youtube.com/watch?v=7KRw8Gl5osA)
 - [Ep. 035 - Coding Challenge: Mitosis Simulation | Flutter Processing](https://www.youtube.com/watch?v=tmP3aKriW2M)
 - [Ep. 034 - Coding Challenge: Random Walker | Flutter Processing](https://www.youtube.com/watch?v=qlVNSMVv7Qk)
-- [Announcing Super Editor v0.1.0!](https://www.youtube.com/watch?v=RrnvWT9C1D0)
 <!-- YOUTUBE:END -->
 
 ---
