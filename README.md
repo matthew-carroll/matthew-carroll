@@ -19,11 +19,11 @@ I produce free videos and blog posts, as well as premium videos and courses. I a
 
 ### Recent YouTube Videos
 <!-- YOUTUBE:START -->
+- [Ep. 041 - What is Perlin noise?](https://www.youtube.com/watch?v=U7pJ6N35Br4)
 - [Q3 Channel Update: Super Editor, Flutter Processing, and Flutter Contracts](https://www.youtube.com/watch?v=I-OR8u9kix8)
 - [Ep. 040 - Adding continuous integration | Flutter Processing](https://www.youtube.com/watch?v=J-_I8EZztUs)
 - [Ep. 039 - Phyllotaxis | Flutter Processing](https://www.youtube.com/watch?v=YLtVd3TI7AI)
 - [Ep. 038 - Metaballs | Flutter Processing](https://www.youtube.com/watch?v=Iyh81vS3lFM)
-- [Ep. 037: Animated Circle Packing WITH TEXT | Flutter Processing](https://www.youtube.com/watch?v=uqKllxG5kbs)
 <!-- YOUTUBE:END -->
 
 ---
