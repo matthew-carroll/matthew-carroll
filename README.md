@@ -19,11 +19,11 @@ I produce free videos and blog posts, as well as premium videos and courses. I a
 
 ### Recent YouTube Videos
 <!-- YOUTUBE:START -->
+- [046: Math | Flutter Processing](https://www.youtube.com/watch?v=FVAH77JOT6Y)
 - [Ep. 045 - saveFrame() | Flutter Processing](https://www.youtube.com/watch?v=ZyKyL7pPqZw)
 - [Ep. 044 - save() | Flutter Processing](https://www.youtube.com/watch?v=07fK4M6TBtE)
 - [Ep. 043 - randomGaussian() | Flutter Processing](https://www.youtube.com/watch?v=a5ypsZUWeD8)
 - [Ep. 042 - noise() | Flutter Processing](https://www.youtube.com/watch?v=Dp6QBPLBGmc)
-- [Ep. 041 - What is Perlin noise? | Flutter Processing](https://www.youtube.com/watch?v=U7pJ6N35Br4)
 <!-- YOUTUBE:END -->
 
 ---
