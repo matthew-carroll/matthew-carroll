@@ -19,11 +19,11 @@ I produce free videos and blog posts, as well as premium videos and courses. I a
 
 ### Recent YouTube Videos
 <!-- YOUTUBE:START -->
+- [Ep. 052 - Let's extract a color setting mixin | Flutter Processing](https://www.youtube.com/watch?v=wqmiNpHPXag)
 - [Ep. 051 - Let's extract 2D primitive and random mixins | Flutter Processing](https://www.youtube.com/watch?v=M6jU88_uPCo)
 - [Ep. 050 - Let's create a painting context | Flutter Processing](https://www.youtube.com/watch?v=z-yZ4W-ZFq8)
 - [Ep. 049: Data conversion | Flutter Processing](https://www.youtube.com/watch?v=Pn2LMD2kfDg)
 - [Ep. 048: Time & Date | Flutter Processing](https://www.youtube.com/watch?v=FmUJBwXvKiE)
-- [Ep. 047: Creating and reading colors | Flutter Processing](https://www.youtube.com/watch?v=4yMP34F-bM8)
 <!-- YOUTUBE:END -->
 
 ---
