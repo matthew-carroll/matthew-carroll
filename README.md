@@ -19,11 +19,11 @@ I produce free videos and blog posts, as well as premium videos and courses. I a
 
 ### Recent YouTube Videos
 <!-- YOUTUBE:START -->
+- [Ep. 054 - Let's extract mouse, keyboard, environment, and structure mixins | Flutter Processing](https://www.youtube.com/watch?v=rnQIBgfxzsI)
 - [Ep. 053 - Let's extract image, shape, and transform mixins | Flutter Processing](https://www.youtube.com/watch?v=HiLZL3at1Pw)
 - [Ep. 052 - Let's extract a color setting mixin | Flutter Processing](https://www.youtube.com/watch?v=wqmiNpHPXag)
 - [Ep. 051 - Let's extract 2D primitive and random mixins | Flutter Processing](https://www.youtube.com/watch?v=M6jU88_uPCo)
 - [Ep. 050 - Let's create a painting context | Flutter Processing](https://www.youtube.com/watch?v=z-yZ4W-ZFq8)
-- [Ep. 049: Data conversion | Flutter Processing](https://www.youtube.com/watch?v=Pn2LMD2kfDg)
 <!-- YOUTUBE:END -->
 
 ---
