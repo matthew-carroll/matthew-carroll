@@ -19,11 +19,11 @@ I produce free videos and blog posts, as well as premium videos and courses. I a
 
 ### Recent YouTube Videos
 <!-- YOUTUBE:START -->
+- [Ep. 057 - How to change the background color with dot buttons in Flutter | Flutter Processing](https://www.youtube.com/watch?v=9DCukWIXELU)
 - [Ep. 056 - How to create a custom animated drawer in Flutter | Flutter Processing](https://www.youtube.com/watch?v=oz5WzMLcP8I)
 - [Ep. 055 - Let's extract mouse & keyboard callbacks, and fix frame rates | Flutter Processing](https://www.youtube.com/watch?v=XNYUgJydI78)
 - [Ep. 054 - Let's extract mouse, keyboard, environment, and structure mixins | Flutter Processing](https://www.youtube.com/watch?v=rnQIBgfxzsI)
 - [Ep. 053 - Let's extract image, shape, and transform mixins | Flutter Processing](https://www.youtube.com/watch?v=HiLZL3at1Pw)
-- [Ep. 052 - Let's extract a color setting mixin | Flutter Processing](https://www.youtube.com/watch?v=wqmiNpHPXag)
 <!-- YOUTUBE:END -->
 
 ---
