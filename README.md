@@ -19,11 +19,11 @@ I produce free videos and blog posts, as well as premium videos and courses. I a
 
 ### Recent YouTube Videos
 <!-- YOUTUBE:START -->
+- [Ep. 059 - Conway's Game of Life | Flutter Processing](https://www.youtube.com/watch?v=NZdE8KPtfp4)
 - [Q4 Channel Update: Super Editor, Flutter Processing, Open Source Dev Agency](https://www.youtube.com/watch?v=dekhAAZjsfk)
 - [How to build a Face Pile widget in Flutter | Widget Workshop](https://www.youtube.com/watch?v=slHjGPV-Jfo)
 - [Ep. 058 - How to define a custom test method in Flutter | Flutter Processing](https://www.youtube.com/watch?v=5jLTzO7iVGc)
 - [Ep. 057 - How to change the background color with dot buttons in Flutter | Flutter Processing](https://www.youtube.com/watch?v=9DCukWIXELU)
-- [Ep. 056 - How to create a custom animated drawer in Flutter | Flutter Processing](https://www.youtube.com/watch?v=oz5WzMLcP8I)
 <!-- YOUTUBE:END -->
 
 ---
