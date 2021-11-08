@@ -21,7 +21,7 @@ I produce free videos and blog posts, as well as premium videos and courses. I a
 <!-- YOUTUBE:START -->
 - [Ep. 061 - Flappy Bird | Flutter Processing](https://www.youtube.com/watch?v=l2LO_pBEP5Y)
 - [Ep. 060 - Snake Game | Flutter Processing](https://www.youtube.com/watch?v=jmuSWI2zfCo)
-- [Ep. 059 - Conway's Game of Life | Flutter Processing](https://www.youtube.com/watch?v=NZdE8KPtfp4)
+- [Ep. 059 - Conway&#39;s Game of Life | Flutter Processing](https://www.youtube.com/watch?v=NZdE8KPtfp4)
 - [Q4 Channel Update: Super Editor, Flutter Processing, Open Source Dev Agency](https://www.youtube.com/watch?v=dekhAAZjsfk)
 - [How to build a Face Pile widget in Flutter | Widget Workshop](https://www.youtube.com/watch?v=slHjGPV-Jfo)
 <!-- YOUTUBE:END -->
