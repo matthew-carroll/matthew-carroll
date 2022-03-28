@@ -19,11 +19,11 @@ I produce free videos and blog posts, as well as premium videos and courses. I a
 
 ### Recent YouTube Videos
 <!-- YOUTUBE:START -->
+- [Flutter Processing, Super Editor, and Bounty Hunters - Q2, 2022 channel update!](https://www.youtube.com/watch?v=rFvfbEj4yi0)
 - [How companies can save $100k with Flutter!](https://www.youtube.com/watch?v=J9yIiTvFcrU)
 - [Flutter app architecture isn&#39;t what you think!](https://www.youtube.com/watch?v=ULWgdAhqMPY)
 - [Stop calling these things &quot;state management&quot;!](https://www.youtube.com/watch?v=lp5GDI88A0Y)
 - [Flutter and Dart are super simple!](https://www.youtube.com/watch?v=PQyZ6cGnH5M)
-- [Welcome to 2022 - Channel update: Super Editor, Flutter Processing, and Flutter Bounty Hunters](https://www.youtube.com/watch?v=WfbveMLbFww)
 <!-- YOUTUBE:END -->
 
 ---
