@@ -19,11 +19,11 @@ I produce free videos and blog posts, as well as premium videos and courses. I a
 
 ### Recent YouTube Videos
 <!-- YOUTUBE:START -->
+- [How to build a Robinhood crypto price glitch with Flutter | Flutter Clone Wars](https://www.youtube.com/watch?v=nhvhS-dTop8)
 - [Flutter Processing, Super Editor, and Bounty Hunters - Q2, 2022 channel update!](https://www.youtube.com/watch?v=rFvfbEj4yi0)
 - [How companies can save $100k with Flutter!](https://www.youtube.com/watch?v=J9yIiTvFcrU)
 - [Flutter app architecture isn&#39;t what you think!](https://www.youtube.com/watch?v=ULWgdAhqMPY)
 - [Stop calling these things &quot;state management&quot;!](https://www.youtube.com/watch?v=lp5GDI88A0Y)
-- [Flutter and Dart are super simple!](https://www.youtube.com/watch?v=PQyZ6cGnH5M)
 <!-- YOUTUBE:END -->
 
 ---
