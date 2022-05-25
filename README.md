@@ -19,11 +19,11 @@ I produce free videos and blog posts, as well as premium videos and courses. I a
 
 ### Recent YouTube Videos
 <!-- YOUTUBE:START -->
+- [How to build Starbucks rewards stars with Flutter | Flutter Clone Wars](https://www.youtube.com/watch?v=Cdysnf1Lh_I)
 - [How to build a Robinhood crypto neon horizon with Flutter | Flutter Clone Wars](https://www.youtube.com/watch?v=cSi0OJJglqw)
 - [How to build a Robinhood crypto price glitch with Flutter | Flutter Clone Wars](https://www.youtube.com/watch?v=nhvhS-dTop8)
 - [Flutter Processing, Super Editor, and Bounty Hunters - Q2, 2022 channel update!](https://www.youtube.com/watch?v=rFvfbEj4yi0)
 - [How companies can save $100k with Flutter!](https://www.youtube.com/watch?v=J9yIiTvFcrU)
-- [Flutter app architecture isn&#39;t what you think!](https://www.youtube.com/watch?v=ULWgdAhqMPY)
 <!-- YOUTUBE:END -->
 
 ---
