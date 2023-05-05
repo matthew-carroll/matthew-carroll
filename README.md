@@ -19,7 +19,7 @@ I produce free videos and blog posts, as well as premium videos and courses. I a
 
 ### Recent YouTube Videos
 <!-- YOUTUBE:START -->
-- [How to build a GMail address field | Flutter Clone Wars](https://www.youtube.com/watch?v=vKILOWoAxx8)
+- [How to build a GMail address field | Flutter Clone Wars](https://www.youtube.com/watch?v=_X9WOy5F1Lo)
 - [Flutter Clone Wars and Flutter Silicon Valley - Q2/Q3 channel update](https://www.youtube.com/watch?v=M-0Nzy5BRTU)
 - [How to build Starbucks rewards stars with Flutter | Flutter Clone Wars](https://www.youtube.com/watch?v=Cdysnf1Lh_I)
 - [How to build a Robinhood crypto neon horizon with Flutter | Flutter Clone Wars](https://www.youtube.com/watch?v=cSi0OJJglqw)
