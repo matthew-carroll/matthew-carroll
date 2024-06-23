@@ -30,11 +30,11 @@ I produce free videos and blog posts, as well as premium videos and courses. I a
 
 ### Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Help me, help Flutter!](https://blog.flutterbountyhunters.com/help-me-help-flutter/)
 - [You can now generate static sites with Dart!](https://blog.flutterbountyhunters.com/you-can-now-generate-static-sites-with-dart/)
 - [What belongs in Flutter?](https://blog.flutterbountyhunters.com/what-belongs-in-flutter/)
 - [Why I&#39;m a Flutter Maximalist](https://blog.flutterbountyhunters.com/why-im-a-flutter-maximalist/)
 - [Tests aren&#39;t what you think!](https://blog.flutterbountyhunters.com/tests-arent-what-you-think/)
-- [How to make money building open source Flutter and Dart packages](https://blog.flutterbountyhunters.com/how-to-make-money-building-open-source-flutter-and-dart-packages/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
